@@ -1,0 +1,6 @@
+Step By Step :
+<=======================================================================>
+
+- OPEN FILE "APLIKASI KASIR"
+- CLICK ALT + F11
+- AND RUNNING THE SYSTEM
